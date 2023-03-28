@@ -1,6 +1,6 @@
 <div align=center>
   
-  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=대문&fontSize=90)
   
 
 ### Yeah!
@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dfdfg1)](https://solved.ac/dfdfg1)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dfdfg42&layout=compact)](https://github.com/dfdfg42/github-readme-stats)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dfdfg42&show_icons=true&theme=radical)
