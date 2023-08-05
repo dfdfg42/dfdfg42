@@ -5,11 +5,7 @@
 
 ### Studying
 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Csharp-00599C?style=flat&logo=CsharpgoColor=white"/>
-
-<img src="https://img.shields.io/badge/JAVA-00599C?style=flat&logo=JAVAgoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>  <img src="https://img.shields.io/badge/Csharp-00599C?style=flat&logo=CsharpgoColor=white"/> <img src="https://img.shields.io/badge/JAVA-00599C?style=flat&logo=JAVAgoColor=white"/>
 <br/>
 <br/>
 
