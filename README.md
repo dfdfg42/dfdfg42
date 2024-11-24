@@ -16,6 +16,22 @@
 - 🏆 **2024 국제 대학생 프로그래밍 대회 (ICPC) Seoul Regional 본선 진출** (2024.11)  
 - 🏆 **2024 제3회 가톨릭대학교 인공지능학과, 컴퓨터정보공학부, 데이터사이언스 학과 경진대회 최우수상** (2024.11)  
 
+
+---
+
+# 💻 Skills  
+- **Programming Languages:**  
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+
+- **Frameworks & Technologies:**  
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+- **Game Development:**  
+  ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+
 ---
 
 # 📊 Solved.ac Profile  
