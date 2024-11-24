@@ -5,7 +5,7 @@
 
 # 👨‍💻 Extracurricular Activities  
 - **가톨릭대학교 알고리즘 동아리 ALCUK 8기 임원진** (2023.12 ~ ing)  
-- **GDSC CUK 2기 멤버** (2024.09 ~ ing)  
+- **GDSC CUK 2기 멤버** 
 - **가톨릭대학교 KakaoX Goorm 9oormthon UNIV 3기 유니브 임원진**  
 
 ---
