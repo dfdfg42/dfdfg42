@@ -1,24 +1,28 @@
-### Hi there, 
+# 📚 Education  
+- **가톨릭대학교 컴퓨터정보공학부 학부과정** (2020.03 ~ ing)  
 
-### 📚 Studying
+---
 
-- **Programming Languages:** 
-  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-  
-- **Frameworks & Technologies:**
-  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+# 👨‍💻 Extracurricular Activities  
+- **가톨릭대학교 알고리즘 동아리 ALCUK 8기 임원진** (2023.12 ~ ing)  
+- **GDSC CUK 2기 멤버** (2024.09 ~ ing)  
+- **가톨릭대학교 KakaoX Goorm 9oormthon UNIV 3기 유니브 임원진**  
 
-### 🏆 Achievements
-- **Competitive Programming:**
-  - 🥈 Silver Medal in the Intra-College 2023 ICPC Competition
+---
 
-- **Solved.ac Profile:**
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dfdfg1)](https://solved.ac/dfdfg1)
+# 🏆 Achievements  
+- 🥈 **2023 가톨릭대학교 프로그래밍 대회 은상** (2023.10)  
+- 🏆 **2024 가톨릭대학교 프로그래밍 대회 대상** (2024.10)  
+- 🏆 **2024 국제 대학생 프로그래밍 대회 (ICPC) Seoul Regional 본선 진출** (2024.11)  
+- 🏆 **2024 제3회 가톨릭대학교 인공지능학과, 컴퓨터정보공학부, 데이터사이언스 학과 경진대회 최우수상** (2024.11)  
 
-### 📈 GitHub Stats
+---
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dfdfg42&show_icons=true&theme=radical)
+# 📊 Solved.ac Profile  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=YOUR_BOJ_USERNAME)](https://solved.ac/YOUR_BOJ_USERNAME)
 
+---
+
+# 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
