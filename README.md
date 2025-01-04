@@ -20,11 +20,6 @@
 ---
 
 ## 💻 Skills  
-- **Programming Languages:**  
-  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-
 - **Frameworks & Technologies:**  
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
     - [가톨릭대 주변 음식점 사이트 (냠톨릭)](https://github.com/dfdfg42/nyum-tolic)
