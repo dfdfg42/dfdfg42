@@ -43,8 +43,4 @@
 ## 📊 Solved.ac Profile  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dfdfg1)](https://solved.ac/dfdfg1)
 
----
 
-## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dfdfg42&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dfdfg42&layout=compact&theme=radical)  
