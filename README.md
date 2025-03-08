@@ -8,7 +8,7 @@
 - **GDSC CUK 2기** 2023
 - **가톨릭대학교 KakaoX Goorm 9oormthon UNIV 3기 유니브** 2024
 - **가톨릭대학교 IT 창업동아리 CSEC** (2024 ~ ing)
-- **LG AImers 6회 수료** 2025
+- **LG AImers 6기 수료** 2025
 ---
 
 ## 🏆 Achievements  
