@@ -1,7 +1,7 @@
 ## 📚 Education  
 - **가톨릭대학교 컴퓨터정보공학부 학부과정** (2020.03 ~ ing)  
 
----
+
 
 ## 👨‍💻 Extracurricular Activities  
 - **가톨릭대학교 알고리즘 동아리 ALCUK 8,9기 임원진** (2023.12 ~ ing)  
@@ -10,7 +10,7 @@
 - **가톨릭대학교 IT 창업동아리 CSEC 회장** (2024 ~ ing)
 - **LG AImers 6기 수료** (2025.01 ~ 2024.03)
 - **삼성전자 DX부문 동계 대학생 S/W 알고리즘 역량 강화 특강 수료**  2025.02 
----
+
 
 ## 🏆 Achievements  
 - 🥈 **2023 가톨릭대학교 프로그래밍 대회 은상** (2023.10)  
@@ -19,7 +19,7 @@
 - 🏆 **2024 제3회 가톨릭대학교 인공지능학과, 컴퓨터정보공학부, 데이터사이언스 학과 경진대회 최우수상** (2024.11)  
 
 
----
+
 
 ## 💻 Skills  
 - **Frameworks & Technologies:**  
@@ -40,7 +40,7 @@
     - [EverytimeHolic - 시간표 추천 AI 모델](https://github.com/dfdfg42/EverytimeHolic)
     - [냠톨릭 - 음식점 추천 AI 모델](https://github.com/dfdfg42/numtolic_recommend)
 
----
+
 
 ## 📊 Solved.ac Profile  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dfdfg1)](https://solved.ac/dfdfg1)
