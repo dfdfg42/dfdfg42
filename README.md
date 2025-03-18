@@ -42,6 +42,4 @@
     - [냠톨릭 - 음식점 추천 AI 모델](https://github.com/dfdfg42/numtolic_recommend)
 
 
-
-## 📊 Solved.ac Profile  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dfdfg1)](https://solved.ac/dfdfg1)
