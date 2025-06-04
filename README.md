@@ -50,7 +50,7 @@
 - **AI Projects:**
     - [EverytimeHolic - 시간표 추천 AI 모델](https://github.com/dfdfg42/EverytimeHolic)
     - [냠톨릭 - 음식점 추천 AI 모델](https://github.com/dfdfg42/numtolic_recommend)
-    - [카카오톡 말투학습 자동응답추천]([https://github.com/dfdfg42/numtolic_recommend](https://github.com/dfdfg42/Kakaotalk_Recommend_AI))
+    - [카카오톡 말투학습 자동응답추천](https://github.com/dfdfg42/Kakaotalk_Recommend_AI)
 
 ***
 
