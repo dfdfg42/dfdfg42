@@ -34,7 +34,7 @@
 
 - **Game Development:** ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
     - [CUK_GP_Final (SDL)](https://github.com/dfdfg42/CUK_GP_Final)
-    - [gameCapstone2024 (Unity)](https://github.com/dfdfg42/gameCapstone2024)
+    - [Dash Knight  (Unity)](https://github.com/dfdfg42/gameCapstone2024)
 
 - **AI Projects:**
     - [EverytimeHolic - 시간표 추천 AI 모델](https://github.com/dfdfg42/EverytimeHolic)
