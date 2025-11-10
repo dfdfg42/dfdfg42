@@ -30,7 +30,7 @@
 - **Frameworks & Technologies:** ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
     - [가톨릭대 주변 음식점 사이트 (냠톨릭)](https://github.com/dfdfg42/nyum-tolic)
     - [만냠 - 밥 먹는 사람 매칭 프로젝트](https://github.com/dfdfg42/CatholicTableMatching)
-    - [AOD - 미디어컨텐츠 종합 정보/큐레이션 서비스](https://github.com/dfdfg42/-AOD-All-of-Dopamine-back)
+    - [AOD - 미디어컨텐츠 종합 정보/큐레이션 서비스](https://github.com/orgs/AOD-All-of-Dopamine/repositories)
 
 - **Game Development:** ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
     - [CUK_GP_Final (SDL)](https://github.com/dfdfg42/CUK_GP_Final)
