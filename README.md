@@ -6,10 +6,10 @@
 
 ## ✨ Activities & Certificates
 
-- **가톨릭대학교 알고리즘 동아리 ALCUK 8,9기 임원진** (2023.12 ~ ing)  
+- **가톨릭대학교 알고리즘 동아리 ALCUK 8,9기** (2023.12 ~ ing)  
 - **GDSC CUK 2,5기** (2023)
-- **가톨릭대학교 KakaoX Goorm 9oormthon UNIV 3기 유니브 임원진** (2024)
-- **가톨릭대학교 IT 창업동아리 CSEC 회장** (2024 ~ ing)
+- **가톨릭대학교 KakaoX Goorm 9oormthon UNIV 3기** (2024)
+- **가톨릭대학교 IT 창업동아리 CSEC** (2024 ~ ing)
 - **LG AImers 6기 수료** (2025.01 ~ 2024.03)
 - **삼성전자 DX부문 동계 대학생 S/W 알고리즘 역량 강화 특강 수료** (2025.02) 
 
