@@ -1,6 +1,7 @@
 ## 📚 Education
 
 - **가톨릭대학교 컴퓨터정보공학부 졸업** (2026.02)
+- 소프트웨어 마에스트로(2026.04 ~)
 
 <br/>
 
@@ -35,7 +36,7 @@
 
 - **Game Development:** ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
     - [CUK_GP_Final (SDL)](https://github.com/dfdfg42/CUK_GP_Final)
-    - [Dice_Orbit  (Unity)]([https://github.com/dfdfg42/gameCapstone2024](https://github.com/dfdfg42/DiceOrbit))
+    - [Dice_Orbit  (Unity)](https://github.com/dfdfg42/DiceOrbit)
 
 - **AI Projects:**
     - [EverytimeHolic - 시간표 추천 AI 모델](https://github.com/dfdfg42/EverytimeHolic)
