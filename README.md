@@ -31,6 +31,7 @@
 ## 💻 Projects
 
 - **Frameworks & Technologies:** ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+    - [Replix (리플릭스) - 넷플릭스 위에서 친구와 같이 보며 채팅하는 크롬 익스텐션 · 소프트웨어 마에스트로](https://chromewebstore.google.com/detail/replix/lgfllmbombkdbebcepigebnbmeaacikp) — 백엔드·인프라(Spring Boot · EKS · Jenkins CI/CD) ([replix.tv](https://replix.tv) · [GitHub](https://github.com/SomaHomeProtecter))
     - [가톨릭대 주변 음식점 사이트 (냠톨릭)](https://github.com/dfdfg42/nyum-tolic)
     - [AOD - 미디어컨텐츠 종합 정보/큐레이션 서비스](https://github.com/orgs/AOD-All-of-Dopamine/repositories)
 
